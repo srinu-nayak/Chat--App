@@ -14,7 +14,7 @@ function App() {
   return (
     <div className="App">
       <header>
-        <h1>Ashu Chat Server</h1>
+        <h1>Annoynomus Chat</h1>
         <SignOut />
       </header>
 
